@@ -1,4 +1,4 @@
-# Automatic Navigation of Robots using Beacon Tracking
+# Autonomous Navigation of Robots using Beacon Tracking
 
 1) Initially, ESP32 mounted on the robot will read RSSI
 (Radio Signal Strength Indicator) levels in forward, right and
